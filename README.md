@@ -15,10 +15,12 @@ Cadastro de Personagens: Insira os nomes dos 12 lutadores em uma matriz 2x6
 
 Seleção de Personagem: Escolha seu personagem principal para a jornada de lutas
 
-Geração de Roteiro: O sistema cria automaticamente uma sequência de adversários, garantindo que:
+Geração de Roteiro: O sistema cria automaticamente uma sequência de adversários, 
+garantindo que:
 
-    Você não lute contra si mesmo
-    Todos os outros 11 personagens sejam enfrentados
+Você não lute contra si mesmo
+    
+Todos os outros 11 personagens sejam enfrentados
 
 <h2>Como Usar</h2>
 
